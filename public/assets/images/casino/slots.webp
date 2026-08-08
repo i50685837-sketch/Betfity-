@@ -1,0 +1,12 @@
+<div className="game-card">
+  <img
+    src="/assets/images/games/casino/slots.webp"
+    alt="Slots Real"
+    className="game-card-image"
+  />
+
+  <div className="game-card-content">
+    <h3>Slots</h3>
+    <span>REAL</span>
+  </div>
+</div>
