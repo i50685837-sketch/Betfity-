@@ -1,0 +1,12 @@
+<div className="game-card">
+  <img
+    src="/assets/images/games/casino/wheel.webp"
+    alt="Lucky Wheel Demo"
+    className="game-card-image"
+  />
+
+  <div className="game-card-content">
+    <h3>Lucky Wheel</h3>
+    <span>DEMO</span>
+  </div>
+</div>
