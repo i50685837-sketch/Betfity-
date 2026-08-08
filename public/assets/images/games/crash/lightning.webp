@@ -1,0 +1,12 @@
+<div className="game-card">
+  <img
+    src="/assets/images/games/crash/lightning.webp"
+    alt="Lightning Crash REAL"
+    className="game-card-image"
+  />
+
+  <div className="game-card-content">
+    <h3>Lightning Crash</h3>
+    <span>REAL</span>
+  </div>
+</div>
