@@ -1,0 +1,12 @@
+<div className="game-card">
+  <img
+    src="/assets/images/games/casino/dice.webp"
+    alt="Dice Real"
+    className="game-card-image"
+  />
+
+  <div className="game-card-content">
+    <h3>Dice</h3>
+    <span>REAL</span>
+  </div>
+</div>
