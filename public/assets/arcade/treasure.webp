@@ -1,0 +1,12 @@
+<div className="game-card">
+  <img
+    src="/assets/images/games/arcade/treasure.webp"
+    alt="Treasure Real"
+    className="game-card-image"
+  />
+
+  <div className="game-card-content">
+    <h3>Treasure</h3>
+    <span>REAL</span>
+  </div>
+</div>
