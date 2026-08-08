@@ -1,0 +1,12 @@
+<div className="game-card">
+  <img
+    src="/assets/images/games/casino/fruits-machine.webp"
+    alt="Fruit Machine REAL"
+    className="game-card-image"
+  />
+
+  <div className="game-card-content">
+    <h3>Fruit Machine</h3>
+    <span>REAL</span>
+  </div>
+</div>
